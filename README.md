@@ -1,3 +1,3 @@
 Exercício proposto
 
-Aplicação de transferencia bancaria, simples, feita em C#.
+Aplicação de transferência bancária, simples, feita em C#.
